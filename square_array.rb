@@ -6,7 +6,7 @@ def square_array(array)
     new_array << x ** 2
     binding.pry
   end
-  return array
+  return new_array
 end
 
 # ruby square_array.rb
